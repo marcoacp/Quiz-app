@@ -2,8 +2,6 @@
 
 ## A simple quiz app made with Svelte
 
-![](img/svelte.svg)
-
 ### Details
 
 - A little quiz app with 10 question per round. The questions have 4 possible answers and user define the
@@ -16,19 +14,19 @@
 #### Images
 
 -Start
-![Start](img/start.png)
+![](img/start.PNG)
 
 -Quiz
-![](img/quiz.png)
+![](img/quiz.PNG)
 
 -Results
-![](img/results.png)
+![](img/results.PNG)
 
 -Details
-![](img/details.png)
+![](img/details.PNG)
 
 -Error
-![](img/error.png)
+![](img/error.PNG)
 
 #### Next steps
 
