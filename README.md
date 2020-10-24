@@ -2,7 +2,7 @@
 
 ## A simple quiz app made with Svelte
 
-![Badge](img/svelte.svg)
+![](img/svelte.svg)
 
 ### Details
 
@@ -16,7 +16,7 @@
 #### Images
 
 -Start
-![](img/start.pns)
+![Start](img/start.pns)
 
 -Quiz
 ![](img/quiz.png)
