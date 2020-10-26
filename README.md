@@ -11,16 +11,9 @@
 - Questions came from here: [Open Trivia DB](https://opentdb.com/api_config.php)
 - Code make with: [Svelte](https://svelte.dev/)
 
-#### Images
+#### Demo
 
--Start
-![](img/start.PNG)
-
--Quiz
-![](img/quiz.PNG)
-
--Details
-![](img/details.PNG)
+https://marcoacp.itch.io/quiz
 
 
 #### Next steps
