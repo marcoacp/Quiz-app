@@ -13,15 +13,15 @@
 
 #### Images
 
-<img src="img/start.PNG" alt="start" width="400" height="300"/>
+-Start
+![](img/start.PNG)
 
-<img src="img/quiz.PNG" alt="quiz" width="400" height="300"/>
+-Quiz
+![](img/quiz.PNG)
 
-<img src="img/results.PNG" alt="results" width="400" height="300"/>
+-Details
+![](img/details.PNG)
 
-<img src="img/details.PNG" alt="details" width="400" height="300"/>
-
-<img src="img/error.PNG" alt="error" width="400" height="300"/>
 
 #### Next steps
 
